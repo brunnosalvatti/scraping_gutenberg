@@ -1,9 +1,11 @@
-O Projeto Postado Possui Finalidade de Estudo / Acadêmica. Nesse Projeto Foi Realizado um Webscraping com o Projeto Gutenberg. O Projeto Gutenberg Disponibiliza Títulos Famosos Disponíveis em Domínio Público Visando Fins Acadêmicos. O Projeto Retorna uma Planilha csv, Contendo os Títulos, o Número de Downloads nos Últimos 30 Dias e o Link para a Obra
+O Projeto postado possui finalidade de estudo / acadêmica. Nesse projeto foi realizado um webscraping com o Projeto Gutenberg. O Projeto Gutenberg disponibiliza títulos famosos disponíveis em domínio público visando fins acadêmicos. O projeto retorna uma planilha csv, contendo os títulos, o número de downloads nos últimos 30 Dias e o link para a Obra
 
-Após Baixar Esse Projeto do Github, no Terminal, instale as Seguintes Bibliotecas a Partir dos Seguinte Comando:
+Após baixar esse projeto do Github, no terminal, instale as seguintes bibliotecas a partir dos seguinte comando:
 
-pip install requests beautifulsoup4
-Então, Rode a Aplicação:
+- pip install requests beautifulsoup4
 
-python web_scraping.py
-Será Gerado um Arquivo CSV de nome 'database' + 'Dia do Scraping', que pode ser Acessada.
+Então, rode a aplicação:
+
+- python web_scraping.py
+  
+Será gerado um arquivo CSV de nome 'database' + 'Dia do Scraping', que pode ser acessada.
