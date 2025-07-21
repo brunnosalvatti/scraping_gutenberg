@@ -1,4 +1,4 @@
-O Projeto postado possui finalidade de estudo / acadêmica. Nesse projeto foi realizado um webscraping com o Projeto Gutenberg. O Projeto Gutenberg disponibiliza títulos famosos disponíveis em domínio público visando fins acadêmicos. O projeto retorna uma planilha csv, contendo os títulos, o número de downloads nos últimos 30 Dias e o link para a Obra
+O Projeto postado possui finalidade de estudo / acadêmica. Nesse projeto foi realizado um webscraping com o Projeto Gutenberg. O Projeto Gutenberg disponibiliza títulos famosos disponíveis em domínio público visando fins acadêmicos. O projeto retorna uma planilha csv, contendo os títulos, o número de downloads nos últimos 30 dias e o link para a Obra
 
 Após baixar esse projeto do Github, no terminal, instale as seguintes bibliotecas a partir dos seguinte comando:
 
